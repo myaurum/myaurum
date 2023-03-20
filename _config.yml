@@ -18,7 +18,7 @@ timezone: America/Chicago
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: josh-ops # the main title
+title: myaurum # the main title
 
 tagline: A DevOps Blog # it will display as the sub-title
 
@@ -26,10 +26,10 @@ description: >- # used by seo meta and the atom feed
   Blogging about Azure DevOps and GitHub practices, tips, and my continuous improvement DevOps journey.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://josh-ops.com'
+url: 'https://myaurum.github.io'
 
 github:
-  username: joshjohanning # change to your github username
+  username: thangaduraiponnusamy # change to your github username
 
 twitter:
   username: jjjettrain # change to your twitter username
@@ -38,7 +38,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Josh Johanning
-  email: jjohanning@uwalumni.com # change to your email address
+  email: thangadurai.in@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://github.com/joshjohanning # change to your github homepage
@@ -47,17 +47,17 @@ social:
     # - https://www.facebook.com/username
     - https://www.linkedin.com/in/joshua-johanning/
 
-google_site_verification: eTIC71VhPBtwll8rNv7qlXud1yJh6E88No39MdcM_MI # change to your verification string
+#google_site_verification: eTIC71VhPBtwll8rNv7qlXud1yJh6E88No39MdcM_MI # change to your verification string
 
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
 
-google_analytics:
-  id: 'G-GE92ZJY22K' # fill in your Google Analytics ID
+#google_analytics:
+#  id: 'G-GE92ZJY22K' # fill in your Google Analytics ID
   # Google Analytics pageviews report settings
-  pv:
-    proxy_endpoint: # fill in the Google Analytics superProxy endpoint of Google App Engine
-    cache_path: # the local PV cache data, friendly to visitors from GFW region
+#  pv:
+#    proxy_endpoint: # fill in the Google Analytics superProxy endpoint of Google App Engine
+#    cache_path: # the local PV cache data, friendly to visitors from GFW region
 
 # Prefer color scheme setting.
 #
